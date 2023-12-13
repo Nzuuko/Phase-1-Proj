@@ -2,7 +2,7 @@
 
 **Author:** Jimmy Mumo
 ***
-![Alt text](image.png)
+
 ## Overview
 
 This project aims to help the company Microsoft enter into the movie industry by giving market insights. It aims to look at what types of movies are doing well at the box office so that Microsoft can look into the current trends and see what the market is responding well to. Once having identified the key trends, the company can then move forward and decide on what content they should be putting out in order to have a share of the movie industry success.
@@ -39,4 +39,4 @@ The current analysis indicates that the timing is opportune for a new studio to 
 ## Conclusions
 The data-driven insights encourage the idea of entering the movie industry with a focus on the horror genre presents a promising opportunity for high profitability. The corresponding uptick in the industry trends further reinforces the favourable environment for new entrants.
 
-![Alt text](image-1.png)
+
